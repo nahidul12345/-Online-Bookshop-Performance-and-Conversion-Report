@@ -1,4 +1,4 @@
-"Online Bookshop Performance and Conversion Report# 📊 E-commerce Performance & Conversion Report - Bookshop Case Study
+# 📊 E-commerce Performance & Conversion Report - Bookshop Case Study
 
 This project analyzes key performance metrics and user behavior for an e-commerce **bookshop**. Using raw session and order data, I explored conversion trends, time-based patterns, customer value, and more. The report aims to extract actionable insights to boost business growth and optimize user experience.
 
